@@ -44,7 +44,7 @@ This repository contains 50 Python-related algorithms and programming problems t
 
 ## String Manipulation⏳
 
-16. **Count the Occurrence of Each Character in a String**: Write a Python program to count the occurrence of each character in a given string.⏳
+16. **Count the Occurrence of Each Character in a String**: Write a Python program to count the occurrence of each character in a given string.✅
 17. **Check if a String is a Palindrome**: Write a Python function that checks if a given string is a palindrome.⏳
 18. **Find All Permutations of a String**: Write a Python function to generate all permutations of a given string.⏳
 19. **Remove All Punctuation from a String**: Write a Python function to remove all punctuation from a given string.⏳
