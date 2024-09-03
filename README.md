@@ -1,4 +1,5 @@
 # Python Problem-Solving Exercises for Data Science
+![for Data Science Exercises with hamza](./assets/web%20app.png)
 
 This repository contains 50 Python-related algorithms and programming problems that are essential for building a strong foundation in Data Science. The exercises cover various topics including basic Python programming, data structures, data manipulation, string manipulation, recursion, data processing, working with DataFrames, data visualization, machine learning, and advanced Python techniques.
 
