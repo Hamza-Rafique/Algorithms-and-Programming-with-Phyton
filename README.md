@@ -33,13 +33,13 @@ This repository contains 50 Python-related algorithms and programming problems t
 9. **Find Duplicates in a List**: Write a Python program to find and print duplicates in a list.- ✅
 10. **Transpose a Matrix**: Write a Python function that transposes a given matrix.- ✅
 
-## Data Manipulation⏳
+## Data Manipulation✅
 
 11. **Remove Duplicates from a List**: Write a Python function to remove duplicates from a list while maintaining the original order. ✅
 12. **Flatten a Nested List**: Write a Python function to flatten a list of lists (e.g., `[[1, 2], [3, 4]]` becomes `[1, 2, 3, 4]`). ✅
-13. **Filter Even/Odd Numbers from a List**: Write a Python function that filters and returns only even or odd numbers from a list.⏳
-14. **Group Elements of a List**: Write a Python function that groups elements of a list based on a condition (e.g., group by even and odd numbers).⏳
-15. **Sort a List of Tuples**: Write a Python function to sort a list of tuples based on the second element in each tuple.⏳
+13. **Filter Even/Odd Numbers from a List**: Write a Python function that filters and returns only even or odd numbers from a list.✅
+14. **Group Elements of a List**: Write a Python function that groups elements of a list based on a condition (e.g., group by even and odd numbers).✅
+15. **Sort a List of Tuples**: Write a Python function to sort a list of tuples based on the second element in each tuple.✅
 
 ## String Manipulation⏳
 
