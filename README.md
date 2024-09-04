@@ -42,13 +42,13 @@ This repository contains 50 Python-related algorithms and programming problems t
 14. **Group Elements of a List**: Write a Python function that groups elements of a list based on a condition (e.g., group by even and odd numbers).✅
 15. **Sort a List of Tuples**: Write a Python function to sort a list of tuples based on the second element in each tuple.✅
 
-## String Manipulation⏳
+## String Manipulation.✅
 
 16. **Count the Occurrence of Each Character in a String**: Write a Python program to count the occurrence of each character in a given string.✅
 17. **Check if a String is a Palindrome**: Write a Python function that checks if a given string is a palindrome.✅
-18. **Find All Permutations of a String**: Write a Python function to generate all permutations of a given string.⏳
-19. **Remove All Punctuation from a String**: Write a Python function to remove all punctuation from a given string.⏳
-20. **Find the Longest Common Substring**: Write a Python program to find the longest common substring in two strings.⏳
+18. **Find All Permutations of a String**: Write a Python function to generate all permutations of a given string..✅
+19. **Remove All Punctuation from a String**: Write a Python function to remove all punctuation from a given string..✅
+20. **Find the Longest Common Substring**: Write a Python program to find the longest common substring in two strings..✅
 
 ## Recursion and Algorithms⏳
 
