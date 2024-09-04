@@ -52,7 +52,7 @@ This repository contains 50 Python-related algorithms and programming problems t
 
 ## Recursion and Algorithms⏳
 
-21. **Binary Search**: Implement the binary search algorithm in Python.⏳
+21. **Binary Search**: Implement the binary search algorithm in Python.✅
 22. **Merge Sort**: Implement the merge sort algorithm in Python.⏳
 23. **Quick Sort**: Implement the quick sort algorithm in Python.⏳
 24. **Find the GCD of Two Numbers**: Write a Python function that finds the greatest common divisor (GCD) of two numbers using recursion.⏳
