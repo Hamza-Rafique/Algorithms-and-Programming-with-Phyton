@@ -60,7 +60,7 @@ This repository contains 50 Python-related algorithms and programming problems t
 
 ## Data Processing⏳
 
-26. **Calculate Moving Averages**: Write a Python function to calculate the moving average of a list of numbers.⏳
+26. **Calculate Moving Averages**: Write a Python function to calculate the moving average of a list of numbers.✅
 27. **Find the Median of a List**: Write a Python function that finds the median of a list of numbers.⏳
 28. **Remove Outliers from a Dataset**: Write a Python program to remove outliers from a dataset using the IQR method.⏳
 29. **Impute Missing Values in a Dataset**: Write a Python function to impute missing values in a dataset using mean, median, or mode.⏳
