@@ -58,13 +58,13 @@ This repository contains 50 Python-related algorithms and programming problems t
 24. **Find the GCD of Two Numbers**: Write a Python function that finds the greatest common divisor (GCD) of two numbers using recursion..✅
 25. **Find the N-th Fibonacci Number Using Recursion**: Write a Python function to find the N-th Fibonacci number using recursion..✅
 
-## Data Processing⏳
+## Data Processing✅
 
 26. **Calculate Moving Averages**: Write a Python function to calculate the moving average of a list of numbers.✅
 27. **Find the Median of a List**: Write a Python function that finds the median of a list of numbers.✅
 28. **Remove Outliers from a Dataset**: Write a Python program to remove outliers from a dataset using the IQR method.✅
 29. **Impute Missing Values in a Dataset**: Write a Python function to impute missing values in a dataset using mean, median, or mode.✅
-30. **Normalize a Dataset**: Write a Python program to normalize a dataset between 0 and 1.⏳
+30. **Normalize a Dataset**: Write a Python program to normalize a dataset between 0 and 1.✅
 
 ## Working with DataFrames (Pandas)⏳
 
