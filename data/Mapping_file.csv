@@ -1,0 +1,273 @@
+Market,Ticket_Price_Name,Currency_Code,Inflation_Country_Name
+Hong Kong,Hong Kong,HKD,Hong Kong SAR
+India,India,INR,India
+Indonesia,Indonesia,IDR,Indonesia
+Japan,Japan,JPY,Japan
+Malaysia,Malaysia,MYR,Malaysia
+Philippines,Philippines,PHP,Philippines
+Russia/CIS,Russia,RUB,Russian Federation
+Singapore,Singapore,SGD,Singapore
+South Korea,South Korea,KRW,"Korea, Republic of"
+Taiwan,Taiwan,TWD,Taiwan Province of China
+Thailand,Thailand,THB,Thailand
+Vietnam,Vietnam,VND,Vietnam
+Bolivia,Bolivia,BOB,Bolivia
+Brazil,Brazil,BRL,Brazil
+Dominican Republic,Dominican Republic,DOP,Dominican Republic
+Ecuador,Ecuador,USD,Ecuador
+Mexico,Mexico,MXN,Mexico
+Peru,Peru,PEN,Peru
+Uruguay,Uruguay,UYP,Uruguay
+Venezuela,Venezuela,VEF,Venezuela
+Austria,Austria,EUR,Austria
+Bahrain,Bahrain,BHD,Bahrain
+Belgium,Belgium,EUR,Belgium
+Bulgaria,Bulgaria,BGL,Bulgaria
+Croatia,Croatia,HRK,Croatia
+Czech Republic,Czech Republic,CZK,Czech Republic
+Denmark,Denmark,DKK,Denmark
+Egypt,Egypt,EGP,Egypt
+Estonia,Estonia,EUR,Estonia
+Ethiopia,Ethiopia,ETB,Ethiopia
+Finland,Finland,EUR,Finland
+Germany,Germany,EUR,Germany
+Ghana,Ghana,GHC,Ghana
+Greece,Greece,EUR,Greece
+Hungary,Hungary,HUF,Hungary
+Iceland,Iceland,EUR,Iceland
+Italy,Italy,EUR,Italy
+Jordan,Jordan,JOD,Jordan
+Kuwait,Kuwait,KWD,Kuwait
+Latvia,Latvia,EUR,Latvia
+Lithuania,Lithuania,EUR,Lithuania
+Netherlands,Netherlands,EUR,Netherlands
+Nigeria,Nigeria,NGN,Nigeria
+Norway,Norway,NOK,Norway
+Oman,Oman,OMR,Oman
+Poland,Poland,PLN,Poland
+Qatar,Qatar,QAR,Qatar
+Romania,Romania,ROL,Romania
+Slovakia,Slovakia,EUR,Slovak Republic
+Slovenia,Slovenia,EUR,Slovenia
+South Africa,South Africa,ZAR,South Africa
+Spain,Spain,EUR,Spain
+Sweden,Sweden,SEK,Sweden
+Switzerland (German),Switzerland,CHF,Switzerland
+Switzerland (Italian),Switzerland,CHF,Switzerland
+Turkey,Turkey,TRY,Turkey
+Ukraine,Ukraine,UAH,Ukraine
+United Arab Emirates,United Arab Emirates,AED,United Arab Emirates
+Australia,Australia,AUD,Australia
+New Zealand,New Zealand,NZD,New Zealand
+Argentina,Argentina,ARS,Argentina
+Chile,Chile,CLP,Chile
+Colombia,Colombia,COP,Colombia
+France,France,EUR,France
+Israel,Israel,ILS,Israel
+Lebanon,Lebanon,LBP,Lebanon
+Portugal,Portugal,EUR,Portugal
+United Kingdom,United Kingdom,GBP,United Kingdom
+Domestic,United States,USD,United States
+Switzerland,Switzerland,CHF,Switzerland
+Kenya,Kenya,KES,Kenya
+China,China,CNY,"China, People's Republic of"
+Puerto Rico,Puerto Rico,USD,Puerto Rico
+Mongolia,Mongolia,MNT,Mongolia
+Jamaica,Jamaica,JMD,Jamaica
+Iraq,Iraq,IQD,Iraq
+Russia,Russia,RUB,Russian Federation
+Pakistan,Pakistan,PKR,Pakistan
+Paraguay,Paraguay,PYG,Paraguay
+Bangladesh,Bangladesh,BDT,Bangladesh
+Sri Lanka,Sri Lanka,LKR,Sri Lanka
+Aruba,Aruba,AWG,Aruba
+Costa Rica,Costa Rica,CRC,Costa Rica
+Honduras,Honduras,HNL,Honduras
+Nicaragua,Nicaragua,NIO,Nicaragua
+Panama,Panama,USD,Panama
+Cyprus,Cyprus,EUR,Cyprus
+Syria,Syria,SYP,Syria
+Switzerland (French/Italian),Switzerland,CHF,Switzerland
+Russia/CIS/Ukraine,Russia,RUB,Russian Federation
+Ireland,Ireland,EUR,Ireland
+Cambodia,Cambodia,KHR,Cambodia
+Saudi Arabia,Saudi Arabia,SAR,Saudi Arabia
+Albania,Albania,ALL,Albania
+Morocco,Morocco,MAD,Morocco
+Bosnia and Herzegovina,Bosnia and Herzegovina,BAM,Bosnia and Herzegovina
+New Caledonia,New Caledonia,XPF,New Caledonia
+Mauritius,Mauritius,MUR,Mauritius
+Reunion,Reunion,EUR,Sub-Saharan Africa
+Tunisia,Tunisia,TND,Tunisia
+El Salvador,El Salvador,USD,El Salvador
+Guatemala,Guatemala,GTQ,Guatemala
+Malta,Malta,EUR,Malta
+Iran,Iran,IRR,Iran
+Canada,Canada,CAD,Canada
+Laos,Laos,LAK,Lao P.D.R.
+Central America,Belize,BZD,Central America
+Central America,Costa Rica,CRC,Central America
+Central America,El Salvador,USD,Central America
+Central America,Guatemala,GTQ,Central America
+Central America,Honduras,HNL,Central America
+Central America,Nicaragua,NIO,Central America
+Central America,Panama,USD,Central America
+East Africa,Ethiopia,ETB,Africa (Region)
+East Africa,Sudan,SDD,Africa (Region)
+East Africa,Madagascar,MGA,Africa (Region)
+East Africa,Mauritius,MUR,Africa (Region)
+East Africa,Seychelles,SCR,Africa (Region)
+East Africa,Uganda,UGX,Africa (Region)
+East Africa,Rwanda,RWF,Africa (Region)
+East Africa,Burundi,BIF,Africa (Region)
+East Africa,Kenya,KES,Africa (Region)
+East Africa,Tanzania,TZS,Africa (Region)
+Greece and Cyprus,Greece,EUR,Greece
+Greece and Cyprus,Cyprus,EUR,Greece
+Serbia and Montenegro,Serbia,RSD,Russian Federation
+Serbia and Montenegro,Montenegro,EUR,Russian Federation
+Lesser Antilles,Barbados,BBD,Caribbean
+Lesser Antilles,Grenada,XCD,Caribbean
+Lesser Antilles,Saint Lucia,XCD,Caribbean
+Lesser Antilles,Trinidad and Tobago,TTD,Caribbean
+Central America+,Belize,BZD,Central America
+Central America+,Costa Rica,CRC,Central America
+Central America+,El Salvador,USD,Central America
+Central America+,Guatemala,GTQ,Central America
+Central America+,Honduras,HNL,Central America
+Central America+,Nicaragua,NIO,Central America
+Central America+,Panama,USD,Central America
+Trinidad & Tobago,Trinidad and Tobago,TTD,Caribbean
+Switzerland (French),Switzerland,CHF,Switzerland
+West Indies,Barbados,BBD,Caribbean
+West Indies,Grenada,XCD,Caribbean
+West Indies,Saint Lucia,XCD,Caribbean
+West Indies,Trinidad and Tobago,TTD,Caribbean
+West Indies,Cayman Islands,KYD,Caribbean
+West Indies,Cuba,CUP,Caribbean
+West Indies,Dominican Republic,DOP,Caribbean
+West Indies,Haiti,USD,Caribbean
+West Indies,Jamaica,JMD,Caribbean
+West Indies,Puerto Rico,USD,Caribbean
+West Indies,The Bahamas,BSD,Caribbean
+Czech Republic/Slovakia,Czech Republic,CZK,Czech Republic
+Czech Republic/Slovakia,Slovakia,EUR,Czech Republic
+Lebanon/United Arab Emirates,Lebanon,LBP,Middle East (Region)
+Lebanon/United Arab Emirates,United Arab Emirates,AED,Middle East (Region)
+South Africa/Nigeria,South Africa,ZAR,South Africa
+South Africa/Nigeria,Nigeria,NGN,South Africa
+Middle East,Bahrain,BHD,Middle East (Region)
+Middle East,Cyprus,EUR,Middle East (Region)
+Middle East,Egypt,EGP,Middle East (Region)
+Middle East,Iran,IRR,Middle East (Region)
+Middle East,Iraq,IQD,Middle East (Region)
+Middle East,Israel,ILS,Middle East (Region)
+Middle East,Jordan,JOD,Middle East (Region)
+Middle East,Kuwait,KWD,Middle East (Region)
+Middle East,Lebanon,LBP,Middle East (Region)
+Middle East,Oman,OMR,Middle East (Region)
+Middle East,Qatar,QAR,Middle East (Region)
+Middle East,Saudi Arabia,SAR,Middle East (Region)
+Middle East,Syria,SYP,Middle East (Region)
+Middle East,Turkey,TRY,Middle East (Region)
+Middle East,United Arab Emirates,AED,Middle East (Region)
+Middle East,Yemen,YER,Middle East (Region)
+Middle East/UAE,Bahrain,BHD,Middle East (Region)
+Middle East/UAE,Cyprus,EUR,Middle East (Region)
+Middle East/UAE,Iran,IRR,Middle East (Region)
+Middle East/UAE,Iraq,IQD,Middle East (Region)
+Middle East/UAE,Jordan,JOD,Middle East (Region)
+Middle East/UAE,Kuwait,KWD,Middle East (Region)
+Middle East/UAE,Lebanon,LBP,Middle East (Region)
+Middle East/UAE,Oman,OMR,Middle East (Region)
+Middle East/UAE,Qatar,QAR,Middle East (Region)
+Middle East/UAE,Saudi Arabia,SAR,Middle East (Region)
+Middle East/UAE,Syria,SYP,Middle East (Region)
+Middle East/UAE,United Arab Emirates,AED,Middle East (Region)
+Middle East/UAE,Yemen,YER,Middle East (Region)
+Middle East Other,Bahrain,BHD,Middle East (Region)
+Middle East Other,Iran,IRR,Middle East (Region)
+Middle East Other,Iraq,IQD,Middle East (Region)
+Middle East Other,Jordan,JOD,Middle East (Region)
+Middle East Other,Kuwait,KWD,Middle East (Region)
+Middle East Other,Oman,OMR,Middle East (Region)
+Middle East Other,Qatar,QAR,Middle East (Region)
+Middle East Other,Saudi Arabia,SAR,Middle East (Region)
+Middle East Other,Syria,SYP,Middle East (Region)
+Middle East Other,Yemen,YER,Middle East (Region)
+E/W Africa,Cape Verde,CVE,Africa (Region)
+E/W Africa,Ghana,GHC,Africa (Region)
+E/W Africa,Mali,XOF,Africa (Region)
+E/W Africa,Nigeria,NGN,Africa (Region)
+E/W Africa,Senegal,XOF,Africa (Region)
+E/W Africa,Ethiopia,ETB,Africa (Region)
+E/W Africa,Sudan,SDD,Africa (Region)
+E/W Africa,Madagascar,MGA,Africa (Region)
+E/W Africa,Mauritius,MUR,Africa (Region)
+E/W Africa,Seychelles,SCR,Africa (Region)
+E/W Africa,Uganda,UGX,Africa (Region)
+E/W Africa,Rwanda,RWF,Africa (Region)
+E/W Africa,Burundi,BIF,Africa (Region)
+E/W Africa,Kenya,KES,Africa (Region)
+E/W Africa,Tanzania,TZS,Africa (Region)
+S/E/W Africa,Angola,AOA,Africa (Region)
+S/E/W Africa,Botswana,BWP,Africa (Region)
+S/E/W Africa,Lesotho,ZAR,Africa (Region)
+S/E/W Africa,Malawi,MWK,Africa (Region)
+S/E/W Africa,Mozambique,MZM,Africa (Region)
+S/E/W Africa,Namibia,ZAR,Africa (Region)
+S/E/W Africa,South Africa,ZAR,Africa (Region)
+S/E/W Africa,Zambia,ZMK,Africa (Region)
+S/E/W Africa,Zimbabwe,ZWD,Africa (Region)
+S/E/W Africa,Cape Verde,CVE,Africa (Region)
+S/E/W Africa,Ghana,GHC,Africa (Region)
+S/E/W Africa,Mali,XOF,Africa (Region)
+S/E/W Africa,Nigeria,NGN,Africa (Region)
+S/E/W Africa,Senegal,XOF,Africa (Region)
+S/E/W Africa,Ethiopia,ETB,Africa (Region)
+S/E/W Africa,Sudan,SDD,Africa (Region)
+S/E/W Africa,Madagascar,MGA,Africa (Region)
+S/E/W Africa,Mauritius,MUR,Africa (Region)
+S/E/W Africa,Seychelles,SCR,Africa (Region)
+S/E/W Africa,Uganda,UGX,Africa (Region)
+S/E/W Africa,Rwanda,RWF,Africa (Region)
+S/E/W Africa,Burundi,BIF,Africa (Region)
+S/E/W Africa,Kenya,KES,Africa (Region)
+S/E/W Africa,Tanzania,TZS,Africa (Region)
+Baltic States,Estonia,EUR,Emerging and Developing Europe
+Baltic States,Latvia,EUR,Emerging and Developing Europe
+Baltic States,Lithuania,EUR,Emerging and Developing Europe
+Curaçao,Curacao,ANG,Aruba
+Netherlands Antilles,Curacao,ANG,Aruba
+Netherlands Antilles,Aruba,AWG,Aruba
+Yugoslavia,Bosnia and Herzegovina,BAM,Russian Federation
+Yugoslavia,Croatia,HRK,Russian Federation
+Yugoslavia,Montenegro,EUR,Russian Federation
+Yugoslavia,Serbia,RSD,Russian Federation
+Yugoslavia,Slovenia,EUR,Russian Federation
+Bosnia,Bosnia and Herzegovina,BAM,Russian Federation
+North Macedonia,Bosnia and Herzegovina,BAM,North Macedonia 
+North Macedonia,Croatia,HRK,North Macedonia 
+North Macedonia,Montenegro,EUR,North Macedonia 
+North Macedonia,Serbia,RSD,North Macedonia 
+North Macedonia,Slovenia,EUR,North Macedonia 
+Djibouti,Ethiopia,ETB,Djibouti
+Djibouti,Sudan,SDD,Djibouti
+Djibouti,Madagascar,MGA,Djibouti
+Djibouti,Mauritius,MUR,Djibouti
+Djibouti,Seychelles,SCR,Djibouti
+Djibouti,Uganda,UGX,Djibouti
+Djibouti,Rwanda,RWF,Djibouti
+Djibouti,Burundi,BIF,Djibouti
+Djibouti,Kenya,KES,Djibouti
+Djibouti,Tanzania,TZS,Djibouti
+Palestine,Bahrain,BHD,Middle East (Region)
+Palestine,Iran,IRR,Middle East (Region)
+Palestine,Iraq,IQD,Middle East (Region)
+Palestine,Jordan,JOD,Middle East (Region)
+Palestine,Kuwait,KWD,Middle East (Region)
+Palestine,Oman,OMR,Middle East (Region)
+Palestine,Qatar,QAR,Middle East (Region)
+Palestine,Saudi Arabia,SAR,Middle East (Region)
+Palestine,Syria,SYP,Middle East (Region)
+Palestine,Israel,ILS,Middle East (Region)

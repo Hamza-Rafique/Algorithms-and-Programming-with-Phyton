@@ -68,8 +68,8 @@ This repository contains 50 Python-related algorithms and programming problems t
 
 ## Working with DataFrames (Pandas)⏳
 
-31. **Load a CSV File into a DataFrame**: Write a Python script to load a CSV file into a pandas DataFrame.⏳
-32. **Group Data by a Column**: Write a Python program to group data in a DataFrame by a specific column.⏳
+31. **Load a CSV File into a DataFrame**: Write a Python script to load a CSV file into a pandas DataFrame.✅
+32. **Group Data by a Column**: Write a Python program to group data in a DataFrame by a specific column.✅
 33. **Filter Data Based on a Condition**: Write a Python script to filter rows in a DataFrame based on a condition.⏳
 34. **Calculate Summary Statistics**: Write a Python program to calculate summary statistics (mean, median, std, etc.) for each column in a DataFrame.⏳
 35. **Handle Missing Data in a DataFrame**: Write a Python program to handle missing data in a pandas DataFrame.⏳
