@@ -78,7 +78,7 @@ This repository contains 50 Python-related algorithms and programming problems t
 
 36. **Plot a Line Chart**: Write a Python script to plot a line chart using Matplotlib.✅
 37. **Plot a Histogram**: Write a Python program to plot a histogram of a dataset using Matplotlib.✅
-38. **Create a Scatter Plot**: Write a Python script to create a scatter plot using Matplotlib.⏳
+38. **Create a Scatter Plot**: Write a Python script to create a scatter plot using Matplotlib.✅
 39. **Plot a Heatmap of Correlation Matrix**: Write a Python program to plot a heatmap of a correlation matrix using Seaborn.⏳
 40. **Plot Multiple Subplots**: Write a Python script to create multiple subplots in a single figure using Matplotlib.⏳
 
