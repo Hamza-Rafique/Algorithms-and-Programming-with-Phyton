@@ -85,7 +85,7 @@ This repository contains 50 Python-related algorithms and programming problems t
 ## Basic Machine Learning⏳
 
 41. **Implement Linear Regression**: Write a Python program to implement linear regression using scikit-learn.✅
-42. **Implement Logistic Regression**: Write a Python script to implement logistic regression using scikit-learn.⏳
+42. **Implement Logistic Regression**: Write a Python script to implement logistic regression using scikit-learn.✅
 43. **Perform K-Means Clustering**: Write a Python program to perform K-Means clustering on a dataset.⏳
 44. **Implement a Decision Tree Classifier**: Write a Python program to implement a decision tree classifier using scikit-learn.⏳
 45. **Implement K-Nearest Neighbors (KNN)**: Write a Python script to implement the KNN algorithm on a dataset.⏳
