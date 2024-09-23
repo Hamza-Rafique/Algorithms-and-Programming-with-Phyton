@@ -1,3 +1,10 @@
+# Where and Why We Use Logistic Regression
+# Logistic Regression is used for binary classification problems where we are interested in predicting one of two outcomes (e.g., will a customer buy a product? yes or no).
+# Applications:
+# Medical diagnosis: Predicting if a tumor is benign or malignant.
+# Customer churn: Predicting whether a customer will stay or leave.
+# Credit scoring: Determining if a loan applicant is likely to default.
+# It’s favored for its simplicity and interpretability, especially for problems involving binary outcomes.
 # 1. Import necessary libraries
 import numpy as np
 import pandas as pd
