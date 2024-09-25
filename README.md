@@ -95,8 +95,8 @@ This repository contains 50 Python-related algorithms and programming problems t
 46. **Create a Decorator for Function Timing**: Write a Python decorator that times the execution of a function and prints the result.✅
 47. **Implement Memoization for Recursive Functions**: Write a Python function that uses memoization to optimize a recursive function.✅
 48. **Create a Custom Exception Class**: Write a Python class to define a custom exception and use it in a simple program.✅
-49. **Generate and Save Synthetic Data**: Write a Python script to generate synthetic data for a dataset and save it to a CSV file.⏳
-50. **Parallelize a Task Using Multiprocessing**: Write a Python script that uses the multiprocessing library to parallelize a computational task.⏳
+49. **Generate and Save Synthetic Data**: Write a Python script to generate synthetic data for a dataset and save it to a CSV file.✅
+50. **Parallelize a Task Using Multiprocessing**: Write a Python script that uses the multiprocessing library to parallelize a computational task.✅
 
 ---
 
